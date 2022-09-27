@@ -10,9 +10,7 @@ db.blogs.insert([{
     "author": "George R.R. Martin ",
     "lastModified": new Date (),
     "category": ["Fantasy"]
-    objectId: 11 
-
-    }])
+    objectId: 11}])
 
 2. Find one blog by author.
 
